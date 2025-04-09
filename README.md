@@ -1,1 +1,1 @@
-# studying-go
+# My studies on Go Language
